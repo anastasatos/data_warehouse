@@ -11,4 +11,4 @@ Design and develop a data warehouse, build one or more data cubes on top of it, 
 Try to make it as a story – you are the story teller!
 
 *Keywords:*
-## SQL Server Database, SQL Server Analysis Services and Tableau
+## SQL Server Database, SQL Server Analysis Services, and Tableau
